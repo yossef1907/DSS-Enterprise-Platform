@@ -1,0 +1,23 @@
+# Databases & Heavy Data
+database/
+*.db
+data/
+*.csv
+
+# Node & Frontend Dependencies
+node_modules/
+website/node_modules/
+website/dist/
+website/.output/
+website/.vinxi/
+website/.tanstack/
+website/.nitro/
+
+# Python Envs & Cache
+.venv/
+.venv-*/
+__pycache__/
+
+# Environment & Logs
+.env
+*.log

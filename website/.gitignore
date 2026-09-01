@@ -1,0 +1,16 @@
+# Databases & Heavy Data
+database/
+*.db
+data/
+*.csv
+
+# Dependencies & Virtual Envs
+node_modules/
+website/node_modules/
+.venv/
+.venv-*/
+__pycache__/
+
+# Environment & Logs
+.env
+*.log

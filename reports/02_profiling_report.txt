@@ -1,0 +1,27 @@
+
+==================================================
+📊 E-Commerce
+Shape: (22049, 18)
+Duplicates: 0
+
+Missing Values:
+No missing values ✅
+
+==================================================
+📊 Retail
+Shape: (1000000, 78)
+Duplicates: 0
+
+Missing Values:
+No missing values ✅
+
+==================================================
+📊 Marketing
+Shape: (60000, 23)
+Duplicates: 0
+
+Missing Values:
+discount_percentage            1808
+customer_satisfaction_score    1844
+email_open_rate                1790
+days_since_last_purchase       1836
