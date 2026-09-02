@@ -14,3 +14,4 @@ __pycache__/
 # Environment & Logs
 .env
 *.log
+.vercel
