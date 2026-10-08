@@ -566,12 +566,6 @@ project_final_summary_powerbi.csv
 ... (10 more)
 
 
----
-
-
-**Egyptian Chinese University (ECU) — Cairo, Egypt**
-**Faculty of Computer Science & Engineering**
-
 </div>
 
 ---
