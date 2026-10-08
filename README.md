@@ -568,14 +568,6 @@ project_final_summary_powerbi.csv
 
 ---
 
-## 🤝 Team
-
-<div align="center">
-
-| | Name | Student ID |
-|--|------|-----------|
-| 👤 | **Yossef Ayman** | `192200339` |
-| 👤 | **Omar Rehab Eldein** | `192200340` |
 
 **Egyptian Chinese University (ECU) — Cairo, Egypt**
 **Faculty of Computer Science & Engineering**
